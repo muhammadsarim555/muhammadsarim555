@@ -1,20 +1,15 @@
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div id="header">
+ 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/muhammad-sarim-83716215b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UCNfkD_OmyDtM7cNXVzJNjnQ" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
+
 </div>
 <img src="https://komarev.com/ghpvc/?username=muhammadsarim555&style=flat-square&color=blue" alt=""/>
 <!--   <br/> -->
-  <h1>
-  hey there
+  <h3>
+  Hi there, <a align="center" href="https://muhammad-sarim.web.app/" target="_blank">I am Muhammad Sarim</a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+</h3>
 <div align="center">
 <!--   <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width="600" height="300"/> -->
 </div>
@@ -63,17 +58,17 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-<a href="[https://www.buymeacoffee.com/roniemartinez](https://www.buymeacoffee.com/muhammadsarim)" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a align="center" href="https://www.buymeacoffee.com/muhammadsarim" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" align="center" alt="Buy Me A Coffee" height="41" width="174"></a>
 
----
-### :fire: My Stats :
+<!-- --- -->
+<!-- ### :fire: My Stats :
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muhammadsarim555&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsarim555&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadsarim555&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadsarim555&show_icons=true&theme=radical) -->
 
 
 
