@@ -4,8 +4,7 @@
 <div id="badges">
 
 </div>
-<img src="https://komarev.com/ghpvc/?username=muhammadsarim555&style=flat-square&color=blue" alt=""/>
-<!--   <br/> -->
+<!-- <img src="https://komarev.com/ghpvc/?username=muhammadsarim555&style=flat-square&color=blue" alt=""/> -->
   <h3>
   Hi there, <a align="center" href="https://muhammad-sarim.web.app/" target="_blank">I am Muhammad Sarim</a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
